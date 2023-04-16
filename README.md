@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @q3e
-- 👀 I am a ReactJS developer
+- 👀 I build JS applications that use ReactJS
