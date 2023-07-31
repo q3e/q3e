@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @q3e
-- 👀 I build JS applications that use ReactJS
+- 👀 I build NextJS web applications with Typescript
+
