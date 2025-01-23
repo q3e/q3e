@@ -6,3 +6,5 @@ Typescript NextJS-ReactJS/Supabase Remote Developer
 *   ✉️  You can contact me at [fatah@notduck.com](mailto:fatah@duck.com)
 *   🧠  Learning New things
 *   🤝  Open to collaborating 
+
+$\color{red}{\textsf{$\Huge{\textsf{lorem ipsum}}$}}$
