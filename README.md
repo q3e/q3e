@@ -7,4 +7,3 @@ Typescript NextJS-ReactJS/Supabase Remote Developer
 *   🧠  Learning New things
 *   🤝  Open to collaborating 
 
-$\color{red}{\textsf{$\Huge{\textsf{lorem ipsum}}$}}$
