@@ -1,4 +1,4 @@
-Typescript NextJS-ReactJS/Supabase Remote Developer
+Typescript developer
 -------------------------------
 
 *   🌍  I work 100% Remote
