@@ -1,4 +1,4 @@
-Typescript developer
+AI-assisted developer
 -------------------------------
 
 *   🌍  I work 100% Remote
